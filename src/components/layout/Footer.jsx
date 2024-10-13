@@ -15,8 +15,8 @@ const Footer = () => {
             <section>
                 <h3>Information</h3>
                 <hr />
-                <p>How to add home</p>
-                <p>How to edit home</p>
+                <p>How to add properties</p>
+                <p>How to edit properties</p>
             </section>
             <section>
                 <h3>Social media</h3>
